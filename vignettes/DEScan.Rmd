@@ -28,7 +28,7 @@ DESCan is currently hosted on GitHub, so installation will make use of the devto
 library(devtools)
 ```
 
-Use the install_github function to install DEScan by supplying the GitHub repository location.
+Use the install_github function to install DEScan supplying the repo location.
 
 ```{r, cache=TRUE, message=FALSE}
 install_github(repo = "jnkoberstein/DEScan")
