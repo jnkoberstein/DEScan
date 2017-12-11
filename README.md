@@ -1,3 +1,3 @@
 # DEScan
 
-[Vignette](vignette/DEScan.pdf)
+[Vignette](https://github.com/jnkoberstein/DEScan/blob/master/vignettes/DEScan.pdf)
