@@ -28,11 +28,10 @@ DESCan is currently hosted on GitHub, so installation will make use of the devto
 library(devtools)
 ```
 
-Use the install_github function to install DEScan. The repo location and a personal access token (PAT) need to be supplied.
+Use the install_github function to install DEScan by supplying the GitHub repository location.
 
 ```{r, cache=TRUE, message=FALSE}
-install_github(repo = "jnkoberstein/DEScan", 
-             auth_token = "293d0010ce53d248175cee2d67ff248395f1a0a2")
+install_github(repo = "jnkoberstein/DEScan")
 ```
 ```{r, message=FALSE}
 library(DEScan)
